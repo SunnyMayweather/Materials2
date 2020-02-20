@@ -32,19 +32,19 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SunnyMayweather/Materials2/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-<img src="https://raw.githubusercontent.com/SunnyMayweather/trials.github.io/master/trials/circle-red.png"/>
-<img src="https://raw.githubusercontent.com/SunnyMayweather/trials.github.io/master/trials/circle-blue.png"/>
-<img src="https://raw.githubusercontent.com/SunnyMayweather/trials.github.io/master/trials/circle-green.png"/>
-<img src="https://raw.githubusercontent.com/SunnyMayweather/trials.github.io/master/trials/square-red.png"/>
-<img src="https://raw.githubusercontent.com/SunnyMayweather/trials.github.io/master/trials/square-blue.png"/>
-<img src="https://raw.githubusercontent.com/SunnyMayweather/trials.github.io/master/trials/square-green.png"/>
-<img src="https://raw.githubusercontent.com/SunnyMayweather/trials.github.io/master/trials/triangle-red.png"/>
-<img src="https://raw.githubusercontent.com/SunnyMayweather/trials.github.io/master/trials/triangle-blue.png"/>
-<img src="https://raw.githubusercontent.com/SunnyMayweather/trials.github.io/master/trials/triangle-green.png"/>
-<img src="https://raw.githubusercontent.com/SunnyMayweather/trials.github.io/master/trials/hexagon-red.png"/>
-<img src="https://raw.githubusercontent.com/SunnyMayweather/trials.github.io/master/trials/hexagon-blue.png"/>
-<img src="https://raw.githubusercontent.com/SunnyMayweather/trials.github.io/master/trials/hexagon-green.png"/>
+<img src="https://github.com/SunnyMayweather/Dice/blob/master/black_1.png"/>
+<img src="https://github.com/SunnyMayweather/Dice/blob/master/black_2.png"/>
+<img src="https://github.com/SunnyMayweather/Dice/blob/master/black_3.png"/>
+<img src="https://github.com/SunnyMayweather/Dice/blob/master/black_4.png"/>
+<img src="https://github.com/SunnyMayweather/Dice/blob/master/black_5.png"/>
+<img src="https://github.com/SunnyMayweather/Dice/blob/master/black_6.png"/>
 
+<img src="https://github.com/SunnyMayweather/Dice/blob/master/red_1.png"/>
+<img src="https://github.com/SunnyMayweather/Dice/blob/master/red_2.png"/>
+<img src="https://github.com/SunnyMayweather/Dice/blob/master/red_3.png"/>
+<img src="https://github.com/SunnyMayweather/Dice/blob/master/red_4.png"/>
+<img src="https://github.com/SunnyMayweather/Dice/blob/master/red_5.png"/>
+<img src="https://github.com/SunnyMayweather/Dice/blob/master/red_6.png"/>
 
 
 ### Support or Contact
